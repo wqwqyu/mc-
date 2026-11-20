@@ -1,0 +1,220 @@
+{
+ "_note": "手工补充的常用模组译名（slug 已用 Modrinth API 核实）",
+ "entries": [
+  {
+   "slug": "fabric-api",
+   "zh": "Fabric API",
+   "en": "Fabric API"
+  },
+  {
+   "slug": "iris",
+   "zh": "Iris 光影 (Iris Shaders)",
+   "en": "Iris Shaders"
+  },
+  {
+   "slug": "immersiveengineering",
+   "zh": "沉浸工程 (Immersive Engineering)",
+   "en": "Immersive Engineering"
+  },
+  {
+   "slug": "tinkers-construct",
+   "zh": "匠魂 (Tinkers' Construct)",
+   "en": "Tinkers' Construct"
+  },
+  {
+   "slug": "farmers-delight",
+   "zh": "农夫乐事 (Farmer's Delight)",
+   "en": "Farmer's Delight"
+  },
+  {
+   "slug": "waystones",
+   "zh": "传送石碑 (Waystones)",
+   "en": "Waystones"
+  },
+  {
+   "slug": "journeymap",
+   "zh": "旅行地图 (JourneyMap)",
+   "en": "JourneyMap"
+  },
+  {
+   "slug": "curios",
+   "zh": "饰品栏 (Curios API)",
+   "en": "Curios API"
+  },
+  {
+   "slug": "architectury-api",
+   "zh": "架构 API (Architectury API)",
+   "en": "Architectury API"
+  },
+  {
+   "slug": "cloth-config",
+   "zh": "布料配置 (Cloth Config API)",
+   "en": "Cloth Config API"
+  },
+  {
+   "slug": "rei",
+   "zh": "REI 物品管理器 (Roughly Enough Items)",
+   "en": "Roughly Enough Items (REI)"
+  },
+  {
+   "slug": "epic-fight",
+   "zh": "史诗战斗 (Epic Fight)",
+   "en": "Epic Fight"
+  },
+  {
+   "slug": "ars-nouveau",
+   "zh": "新生魔艺 (Ars Nouveau)",
+   "en": "Ars Nouveau"
+  },
+  {
+   "slug": "ae2",
+   "zh": "应用能源2 (Applied Energistics 2)",
+   "en": "Applied Energistics 2"
+  },
+  {
+   "slug": "refined-storage",
+   "zh": "精致存储 (Refined Storage)",
+   "en": "Refined Storage"
+  },
+  {
+   "slug": "storagedrawers",
+   "zh": "抽屉 (Storage Drawers)",
+   "en": "Storage Drawers"
+  },
+  {
+   "slug": "quark",
+   "zh": "夸克 (Quark)",
+   "en": "Quark"
+  },
+  {
+   "slug": "supplementaries",
+   "zh": "附属装饰 (Supplementaries)",
+   "en": "Supplementaries"
+  },
+  {
+   "slug": "jade",
+   "zh": "Jade 提示 (Jade)",
+   "en": "Jade 🔍"
+  },
+  {
+   "slug": "embeddium",
+   "zh": "嵌入 (Embeddium)",
+   "en": "Embeddium"
+  },
+  {
+   "slug": "rubidium",
+   "zh": "铷 (Rubidium)",
+   "en": "Rubidium"
+  },
+  {
+   "slug": "oculus",
+   "zh": "光影 (Oculus)",
+   "en": "Oculus"
+  },
+  {
+   "slug": "biomesyougo",
+   "zh": "你将去的生物群系 (Oh The Biomes You'll Go)",
+   "en": "Oh The Biomes You'll Go"
+  },
+  {
+   "slug": "biomes-o-plenty",
+   "zh": "超多生物群系 (Biomes O' Plenty)",
+   "en": "Biomes O' Plenty"
+  },
+  {
+   "slug": "blood-magic",
+   "zh": "血魔法 (Blood Magic)",
+   "en": "Blood Magic"
+  },
+  {
+   "slug": "thermal-expansion",
+   "zh": "热力膨胀 (Thermal Expansion)",
+   "en": "Thermal Expansion"
+  },
+  {
+   "slug": "industrial-foregoing",
+   "zh": "工业先锋 (Industrial Foregoing)",
+   "en": "Industrial Foregoing"
+  },
+  {
+   "slug": "createaddition",
+   "zh": "机械动力：电力附加 (Create Crafts & Additions)",
+   "en": "Create Crafts & Additions"
+  },
+  {
+   "slug": "create-fabric",
+   "zh": "机械动力 (Create Fabric)",
+   "en": "Create Fabric"
+  },
+  {
+   "slug": "sodium-extra",
+   "zh": "钠：附加 (Sodium Extra)",
+   "en": "Sodium Extra"
+  },
+  {
+   "slug": "reeses-sodium-options",
+   "zh": "Reese 的钠设置 (Reese's Sodium Options)",
+   "en": "Reese's Sodium Options"
+  },
+  {
+   "slug": "lithium",
+   "zh": "锂 (Lithium)",
+   "en": "Lithium"
+  },
+  {
+   "slug": "starlight",
+   "zh": "星光 (Starlight)",
+   "en": "Starlight (Fabric)"
+  },
+  {
+   "slug": "ferrite-core",
+   "zh": "铁氧核心 (FerriteCore)",
+   "en": "FerriteCore"
+  },
+  {
+   "slug": "memoryleakfix",
+   "zh": "内存泄漏修复 (Memory Leak Fix)",
+   "en": "Memory Leak Fix"
+  },
+  {
+   "slug": "entityculling",
+   "zh": "实体剔除 (Entity Culling)",
+   "en": "Entity Culling"
+  },
+  {
+   "slug": "immediatelyfast",
+   "zh": "即时加速 (ImmediatelyFast)",
+   "en": "ImmediatelyFast"
+  },
+  {
+   "slug": "simple-voice-chat",
+   "zh": "简易语音聊天 (Simple Voice Chat)",
+   "en": "Simple Voice Chat"
+  },
+  {
+   "slug": "distanthorizons",
+   "zh": "远处的地平线 (Distant Horizons)",
+   "en": "Distant Horizons"
+  },
+  {
+   "slug": "xaeros-world-map",
+   "zh": "Xaero的世界地图 (Xaero's World Map)",
+   "en": "Xaero's World Map"
+  },
+  {
+   "slug": "alexs-mobs",
+   "zh": "Alex的生物 (Alex's Mobs)",
+   "en": "Alex's Mobs"
+  },
+  {
+   "slug": "mowzies-mobs",
+   "zh": "Mowzie的生物 (Mowzie's Mobs)",
+   "en": "Mowzie's Mobs"
+  },
+  {
+   "slug": "pams-harvestcraft-2-food-core",
+   "zh": "潘马斯农场 (Pam's HarvestCraft)",
+   "en": "Pam's HarvestCraft 2: Food Core"
+  }
+ ]
+}
